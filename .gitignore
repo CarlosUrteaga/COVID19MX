@@ -2,3 +2,11 @@
 src/*.csv
 .pswd
 fulldb.csv
+
+
+.ipynb_checkpoints/
+eancontentportal.csv
+hirota_verified_eans.csv
+jorge.urteaga.crt
+jorge.urteaga.key
+
