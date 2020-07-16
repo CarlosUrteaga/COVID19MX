@@ -2,8 +2,8 @@
 src/*.csv
 .pswd
 fulldb.csv
-
-
+notebook/report_data.csv
+\
 .ipynb_checkpoints/
 eancontentportal.csv
 hirota_verified_eans.csv
