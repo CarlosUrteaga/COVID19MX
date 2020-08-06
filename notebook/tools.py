@@ -1,6 +1,6 @@
 from constants import ENTIDADES, MUNICIPIOS, NACIONALIDAD, ORIGEN, RESULTADO, SECTOR, SEXO, SI_NO, TIPO_PACIENTE
 import pandas as pd
-def applyDictionaryALL(df):
+def replace_all_fields(df):
     df.replace({'ORIGEN': ORIGEN},inplace=True)
     df.replace({"SECTOR": SECTOR},inplace=True)
     df.replace({"SEXO": SEXO},inplace=True)
